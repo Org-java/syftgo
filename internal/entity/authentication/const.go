@@ -11,6 +11,6 @@ const (
 // list of authentication provider
 const (
 	ProviderOTP      Provider = "otp"
-	ProviderPassword Provider = "password"
+	//ProviderPassword Provider = "password"
 	ProviderPin      Provider = "pin"
 )
